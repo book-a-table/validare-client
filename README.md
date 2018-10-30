@@ -80,5 +80,5 @@
 >- Sa pot rezerva online pentru cati membri doresc, sa pot alege locul in restaurant si timpul de asteptare a notei de plata sa nu fie uitat.
 >- O aplicatie a restaurantului, in care sa se regaseasca meniul si modalitate de a cere comanda
 
-#### [Pagina de prezentare](https://book-a-table.github.io/validare-restaurant/)
+#### [Pagina de prezentare](https://book-a-table.github.io/fiki/)
 
