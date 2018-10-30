@@ -1,21 +1,21 @@
 ### Validare client
 
-#### Cat timp petreci la restaurant (durata unei mese) ?
+- Cat timp petreci la restaurant (durata unei mese) ?
 ![Q1](Q1.PNG)
 
-#### Cum preferi sa faci rezervarea ?
+- Cum preferi sa faci rezervarea ?
 ![Q1](Q2.PNG)
 
-#### Cand ai vrea sa comanzi?
+- Cand ai vrea sa comanzi?
 ![Q1](Q3.PNG)
 
-#### Cum preferi sa achiti nota de plata?
+- Cum preferi sa achiti nota de plata?
 ![Q1](Q4.PNG)
 
-#### Ce consideri ca ar putea fi imbunatatit ?
+- Ce consideri ca ar putea fi imbunatatit ?
 ![Q1](Q5.PNG)
 
-#### Cu ce te-ai confruntat atunci cand ai ales sa servesti masa intr-un restaurant? Ce imbunatatiri ai aduce sistemului de rezervare si celui de preluare a comenzii ?
+- Cu ce te-ai confruntat atunci cand ai ales sa servesti masa intr-un restaurant? Ce imbunatatiri ai aduce sistemului de rezervare si celui de preluare a comenzii ?
 
 >- personal necooperativ
 >- Personalul să fie mai operativ.
